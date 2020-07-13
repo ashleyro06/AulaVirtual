@@ -1,0 +1,14 @@
+:root {
+  --global-color-1: #201c71;
+  --global-color-2: #a1b1d9;
+  /* --global-color-3: #3196E2;
+  --global-color-4: #EAEFF3;
+  --global-color-dark-1: #145F65;
+  --global-color-dark-2: #d84303;
+  --global-color-dark-3: #0E3D60;
+  --global-color-dark-4: #fcf6f4; */
+}
+
+#app{
+  background-image: url("../images/fondo.jpg");
+}
